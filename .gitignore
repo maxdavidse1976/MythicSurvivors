@@ -97,3 +97,33 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# --- Additional Recommended Ignores ---
+
+# Unity Collaborate (if unused)
+[Cc]ollab/
+
+# Plastic SCM workspace (Unity's default VCS, if unused)
+.plastic/
+PlasticSCM/
+
+# Burst / Unity Artifacts
+[Aa]rtifacts/
+
+# Crash dumps
+*.dmp
+
+# Backup meta files
+*.meta~
+
+# VSCode
+.vscode/
+
+# JetBrains Project Settings
+.idea/
+
+# Android build cache
+[Aa]ndroid/
+
+# Catch all custom build folders
+[Bb]uild*/**
